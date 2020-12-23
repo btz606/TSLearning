@@ -1,0 +1,20 @@
+// 任意值
+var myFavoriteNumber = 'seven';
+// myFavoriteNumber = 7;
+var myFavoriteNumber_1 = 'seven';
+myFavoriteNumber_1 = 7;
+var anyThing = 'hello';
+console.log(anyThing.myName);
+console.log(anyThing.myName.firstName);
+var anyThing_1 = 'Tom';
+anyThing_1.setName('Jerry');
+anyThing_1.setName('Jerry').sayHello();
+anyThing_1.myName.setFirstName('Cat');
+var something;
+something = 'seven';
+something = 7;
+something.setName('Tom');
+var something_1;
+something_1 = 'seven';
+something_1 = 7;
+something_1.setName('Tom');
